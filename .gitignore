@@ -1,4 +1,5 @@
 # ignore all png images 
 *.png
+*.jpg
 # ignore cv files
 /cv
