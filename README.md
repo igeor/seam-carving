@@ -11,5 +11,5 @@ To run the code in this repository, you need to have the following software inst
 
 ## Usage
 
-To use the code, simply run the `experiments.ipynb` script using the following command:
+To check the code, simply run the experiments.ipynb notebook. Please note that the location of the images can be modified within the notebook to match the location of your image files.
 
